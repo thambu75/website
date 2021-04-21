@@ -1,2 +1,2 @@
 FROM httpd:2.4
-copy index.html /var/www/html
+sudo copy index.html /var/www/html
