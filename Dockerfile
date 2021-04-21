@@ -1,2 +1,2 @@
 FROM httpd:2.4
-Add . /var/www/html
+copy index.html /var/www/html
